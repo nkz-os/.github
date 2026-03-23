@@ -1,4 +1,4 @@
-# NKZ Open Standard (Nekazari) 🚜🛰️
+# NKZ Open Architecture (Nekazari) 🚜🛰️
 
 <p align="left">
   <a href="https://nkz-os.org">
@@ -29,14 +29,13 @@ NKZ OS relies on an **IIFE (Immediately Invoked Function Expression) Runtime Scr
 
 ## 🔌 Open Hardware & Edge Integration
 
-We don't just process data; we standardize how it's generated. NKZ provides **Hardware Reference Designs** for field edge devices.
-Whether you are building custom MQTT dataloggers or designing autonomous agricultural rovers (ROS2/Zenoh), our reference architectures ensure your hardware is natively compliant with the NKZ Digital Twin standard right out of the box.
+We provide **Hardware Reference Designs** for field edge devices. Whether you are building custom MQTT dataloggers or designing autonomous agricultural rovers (ROS2/Zenoh), our reference architectures ensure your hardware is natively compliant with the NKZ Digital Twin environment right out of the box.
 
 👉 *Check the [Edge Integration Docs](https://nkz-os.org) for BOMs, isoBUS wiring, and payload schemas.*
 
 ---
 
-## 🎓 Academic Research & Community 
+## 🎓 Academic Research & Community
 
 NKZ is built to be the foundational infrastructure for AgTech research. We actively welcome contributions from university talent (Computer Science, Telecommunications, Agronomy). 
 * Don't waste time building backends for your TFG/TFM. Fork the `nkz-module-template`, focus on your algorithm (AI, Vision, Robotics), and inject it into our 3D environment.
